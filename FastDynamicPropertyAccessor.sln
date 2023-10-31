@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastDynamicPropertyAccessor", "FastDynamicPropertyAccessor\FastDynamicPropertyAccessor.csproj", "{BFFE2BA3-857A-4E55-A662-17C37B7E7FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFE2BA3-857A-4E55-A662-17C37B7E7FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFE2BA3-857A-4E55-A662-17C37B7E7FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFE2BA3-857A-4E55-A662-17C37B7E7FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFE2BA3-857A-4E55-A662-17C37B7E7FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B327D1F4-C942-4115-BB9D-78D4FEC79F73}
+	EndGlobalSection
+EndGlobal
